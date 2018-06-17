@@ -1,0 +1,22 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "learn  node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bby365/anydoor.git"
+  },
+  "author": "bby365",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bby365/anydoor/issues"
+  },
+  "homepage": "https://github.com/bby365/anydoor#readme",
+  "dependencies": {
+    "handlebars": "^4.0.11"
+  }
+}
